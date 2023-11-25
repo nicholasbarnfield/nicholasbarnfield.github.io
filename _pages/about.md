@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year undergraduate student in Honours Probability and Statistics at McGill Univeristy in Montréal, Canada. Over the past year and a half, I've had the privilege to work under the supervision of [Prof. Vojkan Jakšić](https://jaksic.xyz) and [Dr. Renaud Raquépas](https://renaudraquepas.github.io/index.html)) in the field of entropic information theory. 
+I'm a final year undergraduate student in Honours Probability and Statistics at McGill Univeristy in Montréal, Canada. Over the past year and a half, I've had the privilege to work under the supervision of [Prof. Vojkan Jakšić](https://jaksic.xyz) and [Dr. Renaud Raquépas](https://renaudraquepas.github.io/index.html) in the field of entropic information theory. 
 
 Research interets 
 ------
