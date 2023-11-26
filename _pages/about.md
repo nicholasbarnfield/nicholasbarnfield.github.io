@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a final year undergraduate student in Honours Probability and Statistics at McGill Univeristy in Montréal, Canada. Over the past year and a half, I've had the privilege to work under the supervision of [Prof. Vojkan Jakšić](https://jaksic.xyz) and [Dr. Renaud Raquépas](https://renaudraquepas.github.io/index.html) in the field of entropic information theory. 
 
-Research interets 
+Research interests 
 ------
 At the moment, my interests align broadly in applied mathematics in the fields of **probability**, **mathematical optimization**, and **statistics**. This being said, I have a deep and persistent fondness for **functional analysis**.  
 
@@ -27,6 +27,6 @@ In my last semester as an undergraduate student, I plan to continue a project un
 
 Other interests
 ------
-On the infrequent occasion where I am away from mathematics, one is likely to find me reading Dostoevsky, playing outdoor hockey, or skiing.
+On the infrequent occasion where I am away from mathematics, one is likely to find me reading history books, playing outdoor hockey, or skiing.
 
 
