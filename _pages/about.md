@@ -22,10 +22,10 @@ N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. *On the Ziv-Merhav theore
 
 Short-term plans
 ------
-In my last semester as an undergraduate student, I plan to continue a project under the guidance of [Prof. Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/) in convex optimization related to a finite-dimensional version of the problem addressed in [here](https://www.math.mcgill.ca/hoheisel/MEM_main.pdf). With any extra time, I also look forward to reading up in [Quantum Theory for Mathematicians](https://link.springer.com/book/10.1007/978-1-4614-7116-5) to make up for my defficiencies in physics 😀.
+In my last semester as an undergraduate student, I plan to continue a project under the guidance of [Prof. Tim Hoheisel](https://www.math.mcgill.ca/hoheisel/) in convex optimization related to a finite-dimensional version of the problem addressed [here](https://www.math.mcgill.ca/hoheisel/MEM_main.pdf). With any extra time, I also look forward to reading up in [Quantum Theory for Mathematicians](https://link.springer.com/book/10.1007/978-1-4614-7116-5) to make up for my defficiencies in physics 😀.
 
 
-Other interets
+Other interests
 ------
 On the infrequent occasion where I am away from mathematics, one is likely to find me reading Dostoevsky, playing outdoor hockey, or skiing.
 
