@@ -13,7 +13,7 @@ Publications and preprints
 2. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. *On the Ziv-Merhav theorem beyond Markovianity*. To appear in The Canadian Journal of Mathematics (2023). [arXiv:2310.01367 [cs.IT]](https://arxiv.org/abs/2310.01367)
    - Abstract: *We generalize to a broader class of decoupled measures a result of Ziv and Merhav on universal estimation of the specific cross (or relative) entropy for a pair of multi-level Markov measures. The result covers pairs of suitably regular g-measures and pairs of equilibrium measures arising from the small space of interactions in mathematical statistical mechanics.*
 
-Invited Talks
+Invited talks
 ---
 
 Mini-workshop on Entropies for Complex processes (December 9, 2023)  
