@@ -16,7 +16,7 @@ Publications and preprints
 Invited talks
 ---
 
-Séminaire Doctoran (January 16, 2024)            
+Séminaire Doctorant (January 16, 2024)            
 Laboratoire de Mathématiques de Besançon, Besançon (online)                 
 *On the Ziv-Merhav theorem beyond Markovianity*   
 
