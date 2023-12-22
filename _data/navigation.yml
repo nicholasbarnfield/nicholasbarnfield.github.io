@@ -8,15 +8,15 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-  - title: "Code"
-    url: /code/
 
   # - title: "Publications"
   #  url: /publications/
 
   - title: "Research"
     url: /research/
+
+  - title: "Code"
+    url: /code/
     
   # - title: "CV"
   #   url: /files/cv.pdf
