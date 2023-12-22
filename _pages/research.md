@@ -16,12 +16,12 @@ Publications and preprints
 Invited talks
 ---
 
-Séminaire Doctoran (January 16, 2024) 
-Laboratoire de Mathématiques de Besançon, Besançon (online)
+Séminaire Doctoran (January 16, 2024)            
+Laboratoire de Mathématiques de Besançon, Besançon (online)                 
 *On the Ziv-Merhav theorem beyond Markovianity*   
 
-The Seminars on Undergraduate Mathematics in Montreal (January 5, 2024)
-Université du Québec à Montréal (UQÀM), Montréal 
+The Seminars on Undergraduate Mathematics in Montreal (January 5, 2024)          
+Université du Québec à Montréal (UQÀM), Montréal         
 *Entropic estimators in information theory*
 
 Mini-workshop on Entropies for Complex processes (December 9, 2023)  
