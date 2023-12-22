@@ -16,7 +16,7 @@ At the moment, my interests align broadly in applied mathematics in the fields o
 
 Publications and preprints
 ------
-N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. *On the Ziv-Merhav theorem beyond Markovianity II: A Thermodynamic Approach*. In preparation (2023).  
+N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. *On the Ziv-Merhav theorem beyond Markovianity II: A Thermodynamic Approach*. (2023). [ arXiv:2312.02098 [math.PR]](https://arxiv.org/abs/2312.02098)
 
 N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. *On the Ziv-Merhav theorem beyond Markovianity*. To appear in The Canadian Journal of Mathematics (2023). [arXiv:2310.01367 [cs.IT]](https://arxiv.org/abs/2310.01367)
 
