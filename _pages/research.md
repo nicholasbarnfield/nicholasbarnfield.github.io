@@ -29,10 +29,10 @@ Mathematical institute of the Serbian Academy of Sciences and Arts, Belgrade (on
 *Return times and waiting times as entropy estimators III: Ziv–Merhav Estimator*   
 
 Recent Progress in Statistical Mechanics (December 3, 2023)  
-Winter Meeting of the Canadian Mathematical Society, Montréal
+Winter Meeting of the Canadian Mathematical Society, Montréal                  
 *On the Ziv-Merhav theorem beyond Markovianity*   
 
 Undergraduate Research Conference (August 18, 2022)  
-McGill University, Montréal 
+McGill University, Montréal               
 *Estimating entropic quantities using recurrences and waiting times*
 
