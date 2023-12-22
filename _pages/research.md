@@ -16,15 +16,23 @@ Publications and preprints
 Invited talks
 ---
 
+Séminaire Doctoran (January 16, 2024) 
+Laboratoire de Mathématiques de Besançon, Besançon (online)
+*On the Ziv-Merhav theorem beyond Markovianity*   
+
+The Seminars on Undergraduate Mathematics in Montreal (January 5, 2024)
+Université du Québec à Montréal (UQÀM), Montréal 
+*Entropic estimators in information theory*
+
 Mini-workshop on Entropies for Complex processes (December 9, 2023)  
 Mathematical institute of the Serbian Academy of Sciences and Arts, Belgrade (online)  
-*Return times and waiting times as entropy estimators III: Merhav–Ziv Estimator*   
+*Return times and waiting times as entropy estimators III: Ziv–Merhav Estimator*   
 
 Recent Progress in Statistical Mechanics (December 3, 2023)  
-Winter Meeting of the Canadian Mathematical Society, Montréal (Québec)  
+Winter Meeting of the Canadian Mathematical Society, Montréal
 *On the Ziv-Merhav theorem beyond Markovianity*   
 
 Undergraduate Research Conference (August 18, 2022)  
-McGill University, Montréal (Québec)  
+McGill University, Montréal 
 *Estimating entropic quantities using recurrences and waiting times*
 
