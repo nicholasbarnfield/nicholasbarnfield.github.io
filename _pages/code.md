@@ -5,10 +5,4 @@ permalink: /code/
 author_profile: true
 ---
 
-Under Construction 
---
-
-*Linear Programming Fundamentals*                 
-
-
-*Cross-entropic estimation agorithms*
+*Cross-entropic estimation algorithms* can be found [here](https://github.com/nicholasbarnfield/ZMCode).
