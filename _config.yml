@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Nicholas Barnfield"
   avatar           : "webpic1.png" #"profile_paris.png"
-  bio              : "Undergrad in Probability and Statistics at McGill University"
-  location         : "Montréal, Canada"
+  bio              : "Statistics Ph.D. student at Harvard University"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=NX0tr-cAAAAJ&hl=en&oi=ao"
   email            : "nicholas.barnfield@mail.mcgill.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Nicholas-Barnfield/publications"
+  arXiv            : "https://arxiv.org/search/?query=Nicholas+barnfield&searchtype=all&source=header"
   uri              :
   bitbucket        :
   codepen          :
