@@ -21,7 +21,7 @@ Invited talks
 Laboratoire de Mathématiques de Besançon, Besançon (online)                 
 *On the Ziv-Merhav theorem beyond Markovianity*   
 
-[The Seminars on Undergraduate Mathematics in Montreal]((https://www.summ.xyz/docs/programme.pdf)) (January 5, 2024)          
+[The Seminars on Undergraduate Mathematics in Montreal](https://www.summ.xyz/docs/programme.pdf) (January 5, 2024)          
 Université du Québec à Montréal (UQÀM), Montréal         
 *Entropic estimators in information theory*
 
