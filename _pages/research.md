@@ -8,7 +8,7 @@ author_profile: true
 Publications and preprints
 ---
 
-1. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1103/4d4b-kgtk](https://journals.aps.org/prb/abstract/10.1103/4d4b-kgt)
+1. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1103/4d4b-kgtk](https://journals.aps.org/prb/abstract/10.1103/4d4b-kgtk)
 
 2. T. Chuna, N. Barnfield, M. P. Friedlander, T. Hoheisel, T. Dornheim. Dual formulation of the maximum entropy method applied to analytic continuation of quantum Monte Carlo data. *Journal of Physics A: Mathematical and Theoretical* (2025). [doi:10.1088/1751-8121/adf924](https://iopscience.iop.org/article/10.1088/1751-8121/adf924)
 
