@@ -10,7 +10,7 @@ Publications and preprints
 
 1. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1103/4d4b-kgtk](https://journals.aps.org/prb/abstract/10.1103/4d4b-kgt)
 
-2. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1088/1751-8121/adf924](https://iopscience.iop.org/article/10.1088/1751-8121/adf924)
+2. T. Chuna, N. Barnfield, M. P. Friedlander, T. Hoheisel, T. Dornheim. Dual formulation of the maximum entropy method applied to analytic continuation of quantum Monte Carlo data. *Journal of Physics A: Mathematical and Theoretical* (2025). [doi:10.1088/1751-8121/adf924](https://iopscience.iop.org/article/10.1088/1751-8121/adf924)
 
 4. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. On the Ziv-Merhav theorem beyond Markovianity II: A thermodynamic Approach.(2023). [arXiv:2312.02098 [math.PR]](https://arxiv.org/abs/2312.02098) 
   
@@ -21,7 +21,7 @@ Conference proceedings
 ---
 
 1. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. Ziv-Merhav estimation for hidden-Markov processes. *IEEE International Symposium on Information Theory*. (2024). [doi:10.1109/ISIT57864.2024.10619304](https://arxiv.org/abs/2408.08809)
-   - Abstract: *We present a proof of strong consistency of a Ziv-Merhav-type estimator of the cross entropy rate for pairs of hidden-Markov processes. Our proof strategy has two novel aspects: the focus on decoupling properties of the laws and the use of tools from the thermodynamic formalism.*
+
 
 Invited talks
 ---
