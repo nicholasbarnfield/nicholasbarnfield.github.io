@@ -10,7 +10,7 @@ Publications and preprints
 
 1. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1103/4d4b-kgtk](https://journals.aps.org/prb/abstract/10.1103/4d4b-kgt)
 
-2. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1088/1751-8121/adf924]([https://journals.aps.org/prb/abstract/10.1103/4d4b-kgt](https://iopscience.iop.org/article/10.1088/1751-8121/adf924))
+2. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1088/1751-8121/adf924](https://iopscience.iop.org/article/10.1088/1751-8121/adf924)
 
 4. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. On the Ziv-Merhav theorem beyond Markovianity II: A thermodynamic Approach.(2023). [arXiv:2312.02098 [math.PR]](https://arxiv.org/abs/2312.02098) 
   
