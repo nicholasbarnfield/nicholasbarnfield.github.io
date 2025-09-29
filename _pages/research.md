@@ -8,12 +8,15 @@ author_profile: true
 Publications and preprints
 ---
 
-1. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. On the Ziv-Merhav theorem beyond Markovianity II: A thermodynamic Approach.(2023). [arXiv:2312.02098 [math.PR]](https://arxiv.org/abs/2312.02098) 
-   - Abstract: *We prove asymptotic results for a modification of the cross-entropy estimator originally introduced by Ziv and Merhav in the Markovian setting in 1993. Our results concern a more general class of decoupled measures. In particular, our results imply strong asymptotic consistency of the modified estimator for all pairs of functions of stationary, irreducible, finite-state Markov chains satisfying a mild decay condition. Our approach is based on the study of a rescaled cumulant-generating function called the cross-entropic pressure, importing to information theory some techniques from the study of large deviations within the thermodynamic formalism.*
-     
-2. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. On the Ziv-Merhav theorem beyond Markovianity I. *Canadian Journal of Mathematics*. (2024). [doi:10.4153/S0008414X24000178](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/on-the-zivmerhav-theorem-beyond-markovianity-i/24BC689E60F8531C01A780744A81BE79)
-   - Abstract: *We generalize to a broader class of decoupled measures a result of Ziv and Merhav on universal estimation of the specific cross (or relative) entropy for a pair of multi-level Markov measures. The result covers pairs of suitably regular g-measures and pairs of equilibrium measures arising from the small space of interactions in mathematical statistical mechanics.*
+1. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1103/4d4b-kgtk](https://journals.aps.org/prb/abstract/10.1103/4d4b-kgt)
 
+2. T. Chuna, N. Barnfield, J. Vorberger, M. P. Friedlander, T. Hoheisel, T. Dornheim. Estimates of the dynamic structure factor for the finite temperature electron liquid via analytic continuation of path integral Monte Carlo data. *Physical Review B* (2025). [doi:10.1088/1751-8121/adf924]([https://journals.aps.org/prb/abstract/10.1103/4d4b-kgt](https://iopscience.iop.org/article/10.1088/1751-8121/adf924))
+
+4. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. On the Ziv-Merhav theorem beyond Markovianity II: A thermodynamic Approach.(2023). [arXiv:2312.02098 [math.PR]](https://arxiv.org/abs/2312.02098) 
+  
+5. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. On the Ziv-Merhav theorem beyond Markovianity I. *Canadian Journal of Mathematics*. (2024). [doi:10.4153/S0008414X24000178](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/on-the-zivmerhav-theorem-beyond-markovianity-i/24BC689E60F8531C01A780744A81BE79)
+
+   
 Conference proceedings
 ---
 
@@ -22,6 +25,10 @@ Conference proceedings
 
 Invited talks
 ---
+
+[Program on Continuous Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/) (June 2026)            
+SIAM Conference on Optimization, Edinburgh (upcoming)          
+*A Self-Scaling Dual Method for Entropy-Regularized Least Squares*  
 
 [Séminaire Doctorant](https://lmb.univ-fcomte.fr/On-the-Ziv-Merhav-theorem-beyond) (January 16, 2024)            
 Laboratoire de Mathématiques de Besançon, Besançon (online)                 
