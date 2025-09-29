@@ -16,5 +16,5 @@ Current Research interests
 ------
 - High-dimensional problems in probability and statistics
 - Theoretical machine learning
-- Mathemcaatical optimization
+- Mathematical optimization
 
