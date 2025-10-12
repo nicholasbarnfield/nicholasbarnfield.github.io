@@ -23,20 +23,16 @@ Conference proceedings
 1. N. Barnfield, R. Grondin, G. Pozzoli and R. Raquépas. Ziv-Merhav estimation for hidden-Markov processes. *IEEE International Symposium on Information Theory*. (2024). [doi:10.1109/ISIT57864.2024.10619304](https://arxiv.org/abs/2408.08809)
 
 
-Invited talks
+Some invited talks
 ---
 
-[//]: # ([Program on Continuous Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/) (June 2026))
+[Program on Continuous Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/) (June 2026)
 SIAM Conference on Optimization, Edinburgh (upcoming)          
 *A Self-Scaling Dual Method for Entropy-Regularized Least Squares*  
 
 [Séminaire Doctorant](https://lmb.univ-fcomte.fr/On-the-Ziv-Merhav-theorem-beyond) (January 16, 2024)            
 Laboratoire de Mathématiques de Besançon, Besançon (online)                 
 *On the Ziv-Merhav theorem beyond Markovianity*   
-
-[The Seminars on Undergraduate Mathematics in Montreal](https://www.summ.xyz/docs/programme.pdf) (January 5, 2024)          
-Université du Québec à Montréal (UQÀM), Montréal         
-*Entropic estimators in information theory*
 
 [Mini-workshop on Entropies for Complex processes](http://www.mi.sanu.ac.rs/novi_sajt/research/conferences/Mini-workshop_entropies_for_complex_processes.pdf) (December 9, 2023)  
 Mathematical institute of the Serbian Academy of Sciences and Arts, Belgrade (online)  
@@ -46,7 +42,4 @@ Mathematical institute of the Serbian Academy of Sciences and Arts, Belgrade (on
 Winter Meeting of the Canadian Mathematical Society, Montréal                  
 *On the Ziv-Merhav theorem beyond Markovianity*   
 
-[Undergraduate Research Conference](https://www.mcgill.ca/mathstat/undergraduate/undergraduate-research/undergraduate-research-conference) (August 18, 2022)  
-McGill University, Montréal               
-*Estimating entropic quantities using recurrences and waiting times*
 
