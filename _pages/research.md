@@ -26,7 +26,7 @@ Conference proceedings
 Invited talks
 ---
 
-#([Program on Continuous Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/) (June 2026))         
+[//]: # ([Program on Continuous Optimization](https://www.siam.org/conferences-events/siam-conferences/op26/) (June 2026))
 SIAM Conference on Optimization, Edinburgh (upcoming)          
 *A Self-Scaling Dual Method for Entropy-Regularized Least Squares*  
 
