@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.ca/citations?user=NX0tr-cAAAAJ&hl=en&oi=ao"
   email            : "nbarnfield@g.harvard.edu"
   researchgate     : "https://www.researchgate.net/profile/Nicholas-Barnfield/publications"
-  uri              :
+  uri              : "https://nicholasbarnfield.scholars.harvard.edu"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nicholas-barnfield-372137220"
+  linkedin         : "nicholas-barnfield-372137220"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -196,6 +196,7 @@ defaults:
       path: ""
       type: posts
     values:
+      redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/"
       layout: single
       author_profile: true
       read_time: true
@@ -207,6 +208,7 @@ defaults:
       path: ""
       type: pages
     values:
+      redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/"
       layout: single
       author_profile: true
   # _teaching
@@ -214,6 +216,7 @@ defaults:
       path: ""
       type: teaching
     values:
+      redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/teaching"
       layout: single
       author_profile: true
       share: true
@@ -223,6 +226,7 @@ defaults:
       path: ""
       type: publications
     values:
+      redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/research"
       layout: single
       author_profile: true
       share: true
@@ -232,6 +236,7 @@ defaults:
       path: ""
       type: portfolio
     values:
+      redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/"
       layout: single
       author_profile: true
       share: true
@@ -241,6 +246,7 @@ defaults:
       path: ""
       type: talks
     values:
+      redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/research"
       layout: talk
       author_profile: true
       share: true

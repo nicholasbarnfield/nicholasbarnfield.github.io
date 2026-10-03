@@ -1,4 +1,5 @@
 ---
+redirect_to: "https://nicholasbarnfield.scholars.harvard.edu/research"
 layout: archive
 title: "Publications"
 permalink: /publications/
